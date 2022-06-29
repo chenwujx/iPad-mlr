@@ -10,3 +10,6 @@ dependencies:
     - pandas
     - thinc
     - autograd
+    - torch
+    - torchvision
+    - torchaudio
